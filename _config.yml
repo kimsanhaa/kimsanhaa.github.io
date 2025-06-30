@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            김산하의 개발 블로그
+longtitle:        김산하의 백엔드 개발 블로그
+author:           김산하
+email:            your-email@example.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Spring Boot, Java, 데이터베이스 등 백엔드 기술을 다루는 개발 블로그
 
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              "https://kimsanhaa.github.io"
-baseurl:          '/jekyll-gitbook'
+baseurl:          ""
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
